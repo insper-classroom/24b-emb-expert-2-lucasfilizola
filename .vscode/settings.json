@@ -40,6 +40,9 @@
          "buildTarget": {
              "visibility": "hidden"
          }
+},
+"files.associations": {
+    "ili9341.h": "c"
 }
 
      
